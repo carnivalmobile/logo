@@ -1,0 +1,19 @@
+{
+  "logo": "Carnival",
+  "name": "carnival",
+  "repo": "logo/carnival",
+  "description": "The Carnival logo.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "styles": [
+    "style.css"
+  ],
+  "images": [
+    "images/logo.svg",
+    "images/logo-black.svg",
+    "images/logo-white.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
